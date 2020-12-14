@@ -14,12 +14,12 @@ const shareCodes = [
     ddgc: $.getdata("dd_shareCode1") || "P04z54XCjVWnYaS5mQNDmL923pN",
     jxgc: $.getdata("jx_shareCode1") || "create/KTb8NtG0YDR8kYo8J0Pn1w==",
   },
-  {
-    zd: $.getdata("zd_shareCode2") || "xrh6xuzupfml2itgd2hsxycsyq",
-    nc: $.getdata("nc_shareCode2") || "ab550ddd4e5a43d5815347c1d02507cb",
-    mc: $.getdata("mc_shareCode2") || "MTE1NDUwMTI0MDAwMDAwMDM1MjcyMzc5",
-    ddgc: $.getdata("dd_shareCode2") || "P04z54XCjVWnYaS5m9cZ2X7iXlJlppE1rRhjjI",
-    jxgc: $.getdata("jx_shareCode2") || "svUycqp_5ylp_OD10OepsQ==",
+   {
+    zd: $.getdata("zd_shareCode1") || "",
+    nc: $.getdata("nc_shareCode1") || "",
+    mc: $.getdata("mc_shareCode1") || "",
+    ddgc: $.getdata("dd_shareCode1") || "",
+    jxgc: $.getdata("jx_shareCode1") || "",
   },
 ];
 $.result = [];
